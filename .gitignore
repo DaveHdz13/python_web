@@ -1,0 +1,9 @@
+*.db
+
+*.py[cod]
+
+.web
+venv
+rxconfig.py
+
+__pycache__/
